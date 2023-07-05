@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://imgur.com/a/8BCEaGE"/>
+  <img src="https://i.imgur.com/iCGQ82q.png"/>
 </div>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Fenekito)](https://git.io/streak-stats)
+[![Fenekito's GitHub stats](https://github-readme-stats.vercel.app/api?username=Fenekito)](https://github.com/anuraghazra/github-readme-stats)
