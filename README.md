@@ -1,8 +1,4 @@
 <h1 align="center">Hello I'm Juan Claudio but you can call me Fenekito!</h1>
-<div id="header" align="center">
-  <img src="https://i.imgur.com/iCGQ82q.png" width="35%" height="35%"/>
-</div>
-
 <div>
   <img height="200em" src="https://github-readme-stats.vercel.app/api?username=Fenekito"/>
   <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fenekito&layout=compact&langs_count=7"/>
