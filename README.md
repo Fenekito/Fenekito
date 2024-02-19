@@ -1,4 +1,4 @@
-<h1 align="center">Hello I'm Fenekito!</h1>
+<h1 align="center">Hello I'm Juan Claudio but you can call me Fenekito!</h1>
 <div id="header" align="center">
   <img src="https://i.imgur.com/iCGQ82q.png" width="35%" height="35%"/>
 </div>
